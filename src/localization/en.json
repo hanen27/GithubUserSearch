@@ -1,0 +1,14 @@
+{
+    "homeUserSearch": {
+        "title": "Github Search",
+        "placeholder": "Search input",
+        "viewProfile" : "View profile",
+        "selectedElements" : "elements Selected",
+        "emptyResult" : "No results found",
+        "editMode" : "Edit Mode",
+        "tryAgain" : "Try again"
+        
+        
+    }
+ 
+}
